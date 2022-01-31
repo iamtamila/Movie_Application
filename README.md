@@ -1,5 +1,4 @@
-# movie_app
-Movie Application
+# Movie Application
 
 ## Description
 
